@@ -318,6 +318,7 @@ Try-to-fix-2082.patch
 Temp-use-PREVIEW-for-IDCompositionDevice5.patch
 Enable-Socket-Pool-Limit-Randomization.patch
 Disable-integration-with-Gemini.patch
+Statusbar-force-light-icon-color-in-incognito.patch
 
 # adblock patches
 eyeo-133.0.6943.49-base.patch
